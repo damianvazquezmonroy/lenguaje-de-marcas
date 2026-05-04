@@ -1,0 +1,27 @@
+#primero{
+    background-color: grey;
+}
+.td1{
+    background-color: dimgray;
+    color: white;
+}
+.td2{
+    background-color: indianred;
+    color: white;
+}
+.td3{
+    background-color: firebrick;
+    color: white;
+}
+#td3{
+    background-color: firebrick;
+    color: white;
+}
+.td4{
+    background-color: dodgerblue;
+    color: white;
+}
+.td5{
+    background-color: indigo;
+    color: white;
+}

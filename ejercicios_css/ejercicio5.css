@@ -1,0 +1,49 @@
+strong.rojo{
+    color: red;
+}
+span.destacado{
+    color: yellow;
+}
+#titulo {
+    color: teal;
+}
+#subtitulo {
+    color: blue;
+}
+.enlace1{
+    color: red;
+}
+.enlace1 em{
+    color: blue;
+}
+.especial{
+    color: purple;
+}
+.titulo {
+    color: blue;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.amarillo{
+    color: yellow;
+}
+#adicional {
+    color: olive;
+}
+#especial{
+    color: fuchsia;
+}
+.enlace2{
+    color: green;
+}
+td{
+    color: green;
+}
+td strong{
+    color: yellow;
+}
+.rojo{
+    color: red;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(7, 201, 201);
+}
+p{
+    color: blue;
+}
+.segundo{
+    color: #FFA500
+}
+.tercero{
+    color: hsl(328, 100%, 50%)
+}
+a{
+    background-color: rgba(128, 128, 128, 0.5);
+}
+.tercero{
+    background-color: hsla(90, 100%, 50%, 0.6);
+}
