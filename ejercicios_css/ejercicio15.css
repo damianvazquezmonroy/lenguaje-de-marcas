@@ -1,0 +1,41 @@
+#uno{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: navy;
+}
+#dos{
+    font-family: Comic sans-serif;
+    font-size: 14px;
+    color: green;
+    
+}
+#tres{
+    font-family: garamond;
+    font-size: 14px;
+    color:aqua;
+}
+#cuatro{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    color: lavender;
+}
+#cinco{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: fuchsia;
+}
+#seis{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: violet;
+}
+#siete{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: slategray;
+}
+#ocho{
+    font-family: cursive;
+    font-size: 14px;
+    color: brown;
+}
