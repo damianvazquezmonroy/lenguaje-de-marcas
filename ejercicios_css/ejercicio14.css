@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+p {
+    color: blue;
+}
+.primero{
+    text-align: center;
+}
+.segundo{
+    background-color: silver;
+    text-align: center;
+}
+.tercero{
+    text-align: right;
+}
+span{
+    color: red;
+}
