@@ -1,0 +1,20 @@
+.naranja{
+    color: orange;
+}
+.azul{
+    color: cadetblue;
+}
+.azul em{
+    color: blue;
+    background-color: yellow;
+}
+.azul u{
+    color: orange;
+}
+.segundo em{
+    color: yellow;
+    background-color: black;
+}
+.segundo u{
+    color: orange;
+}
