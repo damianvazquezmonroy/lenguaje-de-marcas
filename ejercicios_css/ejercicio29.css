@@ -1,0 +1,24 @@
+#rojo{
+    border: 5px solid red;
+    background-color: rgb(185, 184, 184);
+    width: 250px;
+    height: 100px;
+    padding: 10px;
+    margin: 25px;
+
+}
+#rojo p{
+    text-shadow: 0px 0px 8px yellow;
+
+}
+#verde{
+    border: 7px solid green ;
+    background-color: grey;
+    width: 300px;
+    height: 100px;
+    padding: 5px;
+    margin: 0px;
+}
+#verde p{
+    color: white;
+}
