@@ -1,0 +1,6 @@
+.degradado{
+    border: 7px solid;
+    width: 140px;
+    height: 135px;
+    border-image: linear-gradient(to bottom, cyan, red ) 1;
+}
