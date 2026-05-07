@@ -1,0 +1,12 @@
+
+.rojo{
+    border: 5px solid red;
+}
+.azul{
+    border: 5px solid blue;
+    padding: 25px;
+}
+.verde{
+    border: 5px solid green;
+    padding: 50px;
+}
