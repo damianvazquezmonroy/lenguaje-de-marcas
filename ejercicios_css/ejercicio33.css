@@ -1,0 +1,14 @@
+.complejo{
+    background-color: rgb(168, 245, 219);
+    padding-top:30px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+    padding-right: 50px;
+}
+.sencillo{
+    background-color: rgb(124, 221, 124);
+    padding-top:30px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 80px;
+}
